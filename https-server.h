@@ -1,0 +1,2 @@
+void init();
+ULONG cleanUp();
